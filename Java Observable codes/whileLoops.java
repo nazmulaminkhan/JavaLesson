@@ -11,6 +11,5 @@ public class whileLoops {
             name = writer.nextLine();
         }
         System.out.println("Hello "+name);
-        );
     }
 }
