@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class hypotenuse {
+public class hypotenuseCalculator {
     public static void main(String[]args){
         double x;
         double y;
